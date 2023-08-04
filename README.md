@@ -1,7 +1,6 @@
 
 ![my banner](./assets/banner.png)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hossein-vejdani-a3bb56242/)
 
 ## About Me
 Experienced Mobile App Developer with over 3 years of expertise in designing, developing, testing, and maintaining cutting-edge applications using Flutter and Dart. Adept at debugging, troubleshooting, and seamlessly integrating third-party libraries and APIs. Proficient in state management, app architecture, and working with remote development environments.Demonstrated competence in constructing RESTful APIs utilizing FastAPI, Python, and MongoDB. 
@@ -10,7 +9,9 @@ Successfully launched three mobile apps, two of which were published on Iranian 
 
 Equipped with a collaborative spirit and a good adaptability to new environments, consistently thriving in team settings. Eager to Learn new technologies and strong ability in providing innovative and creative solutions to overcome complex problems and challenges.
 
-Want to know more about me? [Check out my linkedin profile.]([https://braydoncoyer.dev/](https://www.linkedin.com/in/hossein-vejdani-a3bb56242/))
+Want to know more about me? Check out my linkedin profile.
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hossein-vejdani-a3bb56242/)
 
 
 ## 📌 My Gitgub Stats
