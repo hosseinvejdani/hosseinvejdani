@@ -1,142 +1,72 @@
-### Hi everyone, i'm Hossein
+## Hi everyone, i'm Hossein
 
-![alt text](./assets/Banner.png)
+![my banner](./assets/Banner-min.webp)
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hossein-vejdani-a3bb56242/)
+
+## About Me
+Experienced Mobile App Developer with over 3 years of expertise in designing, developing, testing, and maintaining cutting-edge applications using Flutter and Dart. Adept at debugging, troubleshooting, and seamlessly integrating third-party libraries and APIs. Proficient in state management, app architecture, and working with remote development environments.Demonstrated competence in constructing RESTful APIs utilizing FastAPI, Python, and MongoDB. 
+
+Successfully launched three mobile apps, two of which were published on Iranian app markets, amassing 4000+ active users.
+
+Equipped with a collaborative spirit and a good adaptability to new environments, consistently thriving in team settings. Eager to Learn new technologies and strong ability in providing innovative and creative solutions to overcome complex problems and challenges.
+
+Want to know more about me? [Check out my linkedin profile.]([https://braydoncoyer.dev/](https://www.linkedin.com/in/hossein-vejdani-a3bb56242/))
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
+## 📌 My Gitgub Stats
 
-Hey there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosseinvejdani)](https://github.com/anuraghazra/github-readme-stats)
 
-I’m Braydon, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
-
-Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
-
-## 📝 Latest Blog Posts
-
-<br>
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
 
 <br>
 
-## 📌 Pinned Repositories
-
-<br>
-
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/braydoncoyer/pomegradient">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/braydoncoyer/ng-limeade">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/braydoncoyer/officeapi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=braydoncoyer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+<a href="https://github.com/hosseinvejdani">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinvejdani&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 <br>
 
 ## 💼 Skills
+[![Flutter](https://shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=4AB197)]()
+[![Flutter](https://shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=4AB197)]()
+[![Flutter](https://shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)]()
+[![Flutter](https://shields.io/badge/Code-FastApi-informational?style=flat&logo=fastapi&logoColor=white&color=4AB197)]()
 
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-GreenSock-informational?style=flat&logo=GreenSock&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-
-<details>
-<summary>More Skills</summary>
-<br>
-
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
+[![Flutter](https://shields.io/badge/UiUx-Figma-informational?style=flat&logo=figma&logoColor=white&color=4AB197)]()
+[![Flutter](https://shields.io/badge/Database-NoSQL-informational?style=flat&logo=sql&logoColor=white&color=4AB197)]()
+[![Flutter](https://shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4AB197)]()
 
 <br>
 
-![](https://img.shields.io/badge/Test-Jasmine-informational?style=flat&logo=Jasmine&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
+## ✅ Experiences and Projects
 
-<br>
+**Full-Stack Mobile App Developer**
 
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Pivotal-informational?style=flat&logo=Pivotal-Tracker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Actions-informational?style=flat&logo=github-actions&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Clubhouse-informational?style=flat&logo=Clubhouse&logoColor=white&color=4AB197)
+May 2019 - Present
 
-</details>
+Esfahan, IranEsfahan, Iran
 
-<br>
+#### Projects:
+- Darito App: An expense tracking Android app that has been successfully published on two Iranian app marketplaces with over 4,000 downloads in under 12 months.
+- Haazerr App: A stuff commute management android app in Persian that successfully developed. It will publish after testing.
+- Word Cleaner: An Android app that helps filter and categorize Persian words. Over 230,000 words were reviewed in under 4 months, with an average processing time of 2 seconds per word.
+- BiTa Kiosk App: Two embedded Linux app with a beautiful UI that connects to a sensor device via a serial port at 60 Hz.
 
-## 📣 How about an Office quote before you go?
+#### Responsibilities:
+- Developed and delivered 4 mobile and Linux software using Flutter, Dart, Figma, Python, FastAPI, and MongoDB.
+- Implemented RESTful APIs and integrated third-party libraries to improve application functionality.
+- Debugged and troubleshot mobile apps and resolved issues related to the app with a resolution time of 2 days per issue, typically.
+- Built RESTful APIs using FastAPI, Python, and MongoDB in all projects with a development time of 2 weeks per project, typically.
+- Participated in code review and testing for all applications with an typical review and testing time of 1 week per project.
+- Researched about new technologies and development environments.
 
-> {office_quote}
->
-> <p>{office_character}</p>
+#### Achievements:
+- Delivered 4 successful apps for mobile and Linux platforms with an average development time of 3 months per project.
+- Launched 2 Android applications on Iranian app marketplaces with 2,500 active users and a total rating of 4.6.
+- Made codes more testable, scalable, and maintainable by using proper coding architectures in all projects.
+- Contributed to a positive team atmosphere and fostered collaboration and knowledge sharing among team members.
+- Achieved customer satisfaction and received positive feedback for communication and problem-solving skills with a satisfaction rate of 95%.
 
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
 
-Check back at the top of the hour for a new quote!
-
-<br>
-
-> ### Want to know how I made this README?
->
-> Check out my [tutorial](https://braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-1/)!
