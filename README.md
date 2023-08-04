@@ -3,7 +3,7 @@
 
 
 ## About Me
-Experienced Mobile App Developer with over 3 years of expertise in designing, developing, testing, and maintaining cutting-edge applications using Flutter and Dart. Adept at debugging, troubleshooting, and seamlessly integrating third-party libraries and APIs. Proficient in state management, app architecture, and working with remote development environments.Demonstrated competence in constructing RESTful APIs utilizing FastAPI, Python, and MongoDB. 
+Experienced Mobile App Developer with over 3 years of expertise in designing, developing, testing, and maintaining cutting-edge applications using **Flutter** and **Dart**. Adept at debugging, troubleshooting, and seamlessly integrating third-party libraries and APIs. Proficient in state management, app architecture, and working with remote development environments.Demonstrated competence in constructing RESTful APIs utilizing **FastAPI**, **Python**, and **MongoDB**. 
 
 Successfully launched three mobile apps, two of which were published on Iranian app markets, amassing 4000+ active users.
 
