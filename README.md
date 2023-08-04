@@ -1,6 +1,6 @@
 ### Hi everyone, i'm Hossein
 
-![alt text](image.jpg)
+![alt text](./assets/Banner.png)
 
 
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
