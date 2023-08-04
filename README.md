@@ -1,4 +1,3 @@
-## Hi everyone, i'm Hossein
 
 ![my banner](./assets/banner.png)
 
