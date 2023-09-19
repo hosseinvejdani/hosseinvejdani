@@ -54,7 +54,7 @@ Esfahan, IranEsfahan, Iran
 - Launched 2 Android applications on Iranian app marketplaces with 2,500 active users and a total rating of 4.6.
 - Made codes more testable, scalable, and maintainable by using proper coding architectures in all projects.
 - Contributed to a positive team atmosphere and fostered collaboration and knowledge sharing among team members.
-- Achieved customer satisfaction and received positive feedback for communication and problem-solving skills with a satisfaction rate of 95%.
+- Achieved customer satisfaction and received positive feedback for communication and problem-solving skills with a satisfaction rate of 95%. 
 
   
 
