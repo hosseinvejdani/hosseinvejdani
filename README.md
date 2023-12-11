@@ -57,7 +57,6 @@ Esfahan, IranEsfahan, Iran
 - Achieved customer satisfaction and received positive feedback for communication and problem-solving skills with a satisfaction rate of 95%. 
 
   
-
 ## 📌 My Gitgub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosseinvejdani)](https://github.com/anuraghazra/github-readme-stats)
